@@ -21,9 +21,9 @@ You have 40:40 vision. You can discern far away details and even read lips. Make
 
 ## Actions
 
-### Unassuming Form
+### Unassuming Form [Reaction]
 Your billowing cloak and slender form make you hard to hit. When a creature inflicts damage on you, you may spend an action token to increase your armor class by 2.
-### Scrappy Solutions
-When a creature other than yourself spends an action token, describe an inventive way that you can help them. You can then spend 1 action token to let them add a d6 to the roll. 
-### Precise Projectiles
-Spend a strength action token to throw a projectile of your choice at a creature you can see. You then spend a number of action tokens to inflict one d8 of damage for each action token you spent.
+### Scrappy Solutions [Reaction]
+When a creature other than yourself makes an ability check, describe an inventive way that you can help them. You can then spend 1 action token to let them add a d6 to the roll. 
+### Precise Projectiles [Action]
+Throw a projectile of your choice at a creature you can see. Spend a number of action tokens to inflict one d8 of damage for each action token you spent.
