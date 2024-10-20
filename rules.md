@@ -47,11 +47,15 @@ Each player rolls a number of d4s equal to their intuition modifier.
 They then start with a number of action tokens  equal to the maximum of the d4s.
 At the start of each player turn, each player rolls a d4 adding a number of action tokens equal to that numer.
 ### Powering Up
-You may choose to forfeit spending any action tokens on the player turn and instead spend the time planning. Increase your number of action tokens by your knowledge modifier. As part of this move, you may also describe a course of action that wish to take. The DM decides if any ability checks are required to achieve your goal.
+You may choose to forfeit spending any action tokens on the player turn and instead spend the time planning. 
+Increase your number of action tokens by your knowledge modifier. 
+As part of this move, you may also describe a course of action that wish to take. 
+The DM decides if any ability checks are required to achieve your goal.
 ## Damage
 When damage is inflicted on you, you lose a number of hitpoints equal to the damage minus divided by your armor class and then rounded down.
 ### Dodging
-When damage is inflicted on you, you may choose to dodge. Spend one action token and you can increase your armor class temporarily by your finesse modifier.
+When damage is inflicted on you, you may choose to dodge. 
+Spend one action token and you can increase your armor class temporarily by your finesse modifier.
 ## Long Rests
 By spending 8 hours spent sleeping or doing light activity in a safe location, you can recover 1 hit point up to your hit point maximum. 
 During this time, one other creature can make a DC15 knowledge ability check to increase the number of hitpoints you regain by 1.
