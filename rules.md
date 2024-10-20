@@ -18,7 +18,8 @@ Your collection of modifiers is known as your _ability spread_.
 Your number of hit points is 5 + your strength modifier. 
 
 ### Armor Class
-Your strength score determines how heavy your armor can be. The weight of armor you can wear, and subsequent armor class is given in the table below.
+Your strength score determines how heavy your armor can be. 
+The weight of armor you can wear, and subsequent armor class is given in the table below.
 
 | Strength Modifier | Armor Type | Armor Class |
 | :---------------- | :--------: | :---------: |
@@ -35,13 +36,16 @@ When precise ordering of actions is required (such as combat), we enter into ini
 All players roll a Intuition Ability Check to a specified DC. If at least one of the players is successful, the players act first. If nobody is successful, the DM acts first.
 
 ### Action Tokens
-Initiative begins with each player having a number of action tokens of each type equal to their ability spread. For example, a player with +1 Charisma modifier starts initiative with 1 Charisma action token. At the start of each player turn, if your number of action tokens of a particular type are less than your ability modifier of that type, your number of action tokens of that type reset to the corresponding ability modifier.
+Initiative begins with each player having a certain number of action tokens. 
+Each player rolls a number of d4s equal to their intuition modifier. 
+They then start with a number of action tokens  equal to the maximum of the d4s.
+At the start of each player turn, each player rolls a d4 adding a number of action tokens equal to that numer.
 ### Powering Up
-You may choose to forfeit spending any action tokens on the player turn and instead "power up". Choose an action token type and increase your number of tokens of that type by the corresponding ability modifier. As part of this move, you may also describe a course of action that wish to take. The DM decides if any ability checks are required to achieve your goal.
+You may choose to forfeit spending any action tokens on the player turn and instead spend the time planning. Increase your number of action tokens by your knowledge modifier. As part of this move, you may also describe a course of action that wish to take. The DM decides if any ability checks are required to achieve your goal.
 ## Damage
 When damage is inflicted on you, you lose a number of hitpoints equal to the damage minus divided by your armor class and then rounded down.
 ### Dodging
-When damage is inflicted on you, you may choose to dodge. You temporarily increase your armor class by a number of finesse action tokens that you spend.
+When damage is inflicted on you, you may choose to dodge. Spend one action token and you can increase your armor class temporarily by your finesse modifier.
 ## Long Rests
 By spending 8 hours spent sleeping or doing light activity in a safe location, you can recover 1 hit point up to your hit point maximum. During this time, one other creature can make a DC15 knowledge ability check to increase the number of hitpoints you regain by 1.
 ## Death
